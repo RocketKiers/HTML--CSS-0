@@ -1,0 +1,14 @@
+body {
+    background-color: purple;
+    color: white;
+}
+
+h1 {
+    background-color: green;
+    color: red;
+}
+
+button {
+    background-color: orange;
+    color: blue;
+}   
